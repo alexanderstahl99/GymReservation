@@ -142,3 +142,4 @@ cython_debug/
 # Google Cal
 token.pickle
 credentials.json
+.idea/
